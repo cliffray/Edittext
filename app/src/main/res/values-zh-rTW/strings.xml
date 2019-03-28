@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Edittext</string>
+    <string name="Name">請輸入名字</string>
+    <string name="tall">請輸入身高</string>
+    <string name="weight">請輸入體重</string>
+    <string name="input">輸入資料</string>
+    <string name="output">輸出</string>
+</resources>
