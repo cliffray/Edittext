@@ -3,9 +3,6 @@
     <string name="Name" >name</string>
     <string name="tall" >tall(cm)</string>
     <string name="weight" >weight(kg)</string>
-    <string name="tall">tall（</string>
-    <string name="input" />
     <string name="input">input</string>
-    <string name="output" />
     <string name="output">output</string>
 </resources>
