@@ -5,4 +5,6 @@
     <string name="weight" >weight(kg)</string>
     <string name="input">input</string>
     <string name="output">output</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
 </resources>
